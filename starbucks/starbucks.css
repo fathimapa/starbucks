@@ -1,0 +1,489 @@
+* {
+    margin: 0;
+}
+
+.head {
+    background-color: rgb(5 42 2);
+    margin-top: 21px;
+    height: 71px;
+}
+
+.header {
+    margin-top: 30px;
+
+}
+
+.home {
+    margin-left: 216px;
+    margin-top: 11px;
+    font-weight: bold;
+}
+
+.gift {
+    margin-left: 422px;
+    margin-top: -17px;
+    font-weight: 100;
+    color: gray;
+}
+
+.order {
+    margin-left: 522px;
+    font-weight: 100;
+    margin-top: -17px;
+    color: gray;
+}
+
+.pay {
+    margin-top: -17px;
+    margin-left: 622px;
+    font-weight: 100;
+    color: gray;
+}
+
+.store {
+    margin-top: -17px;
+    margin-left: 722px;
+    font-weight: 100;
+    color: gray;
+}
+
+.headerinput {
+    background-color: rgb(165, 165, 165);
+    border-radius: 16px;
+    height: 32px;
+    width: 211px;
+    border: none;
+    margin-left: 825px;
+    position: absolute;
+    margin-top: -28px;
+    border: 1px solid #f1efef;
+
+}
+
+.reward {
+    color: white;
+    font-size: 18px;
+    font-weight: 5;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 53px;
+}
+
+.logo {
+    margin-top: -39px;
+    margin-left: 58px;
+    width: auto;
+    height: 46px;
+}
+
+.knowmorebutton {
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(5 42 2);
+    border: 0.5px solid white;
+    color: white;
+    margin-left: 1100px;
+    margin-top: 20px;
+
+    height: 27px;
+}
+
+.userlogo {
+    height: 39px;
+    width: auto;
+    margin-right: 190px;
+    margin-top: -25px;
+    position: absolute;
+    margin-left: 1119px;
+}
+
+.head3 {}
+
+.handcrafted {
+    color: rgb(2, 26, 2);
+    margin-top: 18px;
+    margin-left: 50px;
+}
+
+.bestseller {
+    border-radius: 70px;
+    height: 99px;
+    width: auto;
+    margin-left: 71px;
+    margin-top: 34px;
+    position: absolute;
+}
+
+.drinks {
+    border-radius: 70px;
+    height: 99px;
+    width: auto;
+    margin-left: 241px;
+    margin-top: 34px;
+    position: absolute;
+}
+
+
+.food {
+    border-radius: 70px;
+    height: 99px;
+    width: auto;
+    margin-left: 439px;
+    margin-top: 34px;
+    position: absolute;
+}
+
+.merchandise {
+    border-radius: 70px;
+    height: 99px;
+    width: auto;
+    margin-left: 648px;
+    margin-top: 34px;
+    position: absolute;
+}
+
+.coffe {
+    border-radius: 70px;
+    height: 99px;
+    width: auto;
+    margin-left: 892px;
+    margin-top: 34px;
+    position: absolute;
+}
+
+.ready {
+    border-radius: 70px;
+    height: 99px;
+    width: auto;
+    margin-left: 1100px;
+    margin-top: 34px;
+    position: absolute;
+}
+
+.Bestsellerh4 {
+    margin-top: 141px;
+    margin-left: 88px;
+    position: absolute;
+}
+
+.coffeh4 {
+    margin-top: 141px;
+    margin-left: 887px;
+    position: absolute
+}
+
+.foodh4 {
+    margin-top: 141px;
+    margin-left: 467px;
+    position: absolute;
+}
+
+.Merchandiseh4 {
+    margin-top: 141px;
+    margin-left: 657px;
+    position: absolute;
+}
+
+.ReadyToEath4 {
+    margin-top: 141px;
+    margin-left: 1100px;
+    position: absolute;
+}
+
+.drinksh4 {
+    margin-top: 141px;
+    margin-left: 270px;
+    position: absolute;
+}
+.yellobackground {
+    background-color: #de9d89;
+    height: 216px;
+    width: 84%;
+    margin-top: 250px;
+    margin-left: 69px;
+    border-radius: 6px;
+}
+
+.frappuccino {
+    width: auto;
+    height: 191px;
+    margin-top: 29px;
+    margin-left: 21px;
+    ;
+}
+
+.beat {
+    margin-left: 154px;
+margin-top: -32px;
+position: absolute; 
+}
+
+.bottle {
+    margin-left: 152px;
+    margin-top: -157px;
+    font-size: 21px;
+}
+
+.buy {
+    margin-left: 153px;
+margin-top: 40px;
+position: absolute;
+font-size: 14px;
+}
+.for {
+    margin-top: 68px;
+    position: absolute;
+    margin-left: 154px;
+    font-weight: lighter;
+    color: #5f4e4e;
+}
+
+.dollarfor {
+    margin-top: 88px;
+    position: absolute;
+    margin-left: 154px;
+    font-weight: lighter;
+    font-weight: bold;
+}
+
+.ordernowbutton {
+    background-color: #084108;
+    border: none;
+    height: 35px;
+    width: 128px;
+    color: white;
+    border-radius: 47px;
+    margin-left: 944px;
+    margin-top: 67px;
+    border-radius: 47px;
+}
+.graybackground {
+    background-color: #e1e1e1;
+width: 100%;
+height: 280px;
+margin-top: 93px;
+}
+.hazilnut{
+    background-color: #ffffff;
+height: 143px;
+width: 23%;
+border-radius: 9px;
+margin-top: 79px;
+    position: absolute;
+    margin-left: 116px;
+        }
+        .hazilnut{
+            background-color:white;
+    height: 143px;
+    width: 23%;
+    border-radius: 9px;
+    margin-top: 79px;
+    position: absolute;
+    margin-left: 116px;
+        }
+        .bhunachikken{
+            background-color: white;
+            height: 143px;
+    width: 23%;
+    border-radius: 9px;
+    margin-top: 79px;
+    position: absolute;
+    margin-left: 532px;
+        }
+        .choclate{
+            background-color:white;
+    height: 143px;
+    width: 23%;
+    border-radius: 9px;
+    margin-top: 79px;
+    position: absolute;
+    margin-left: 940px;
+        }
+        .hazelnutimage{
+            height: 66px;
+    width: 77px;
+    border-radius: 6px;
+    margin-left: 16px;
+    margin-top: 16px;
+        }
+        .additemnutton{
+            background-color: #084108;
+    height: 29px;
+    width: 87px;
+    border: none;
+    border-radius: 28px;
+    color: white;
+    font-weight: bold;
+    margin-left: 119px;
+    margin-top: 97px;
+    position: absolute;
+
+}
+.hazelnuttext{
+    margin-top: -57px;
+margin-left: 120px;
+position: absolute;
+}
+.bhunachikkenimg{
+    height: 66px;
+width: 77px;
+border-radius: 6px;
+margin-left: 16px;
+margin-top: 16px;
+}
+.learn{
+    color: #084108;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 14px;
+    position: absolute;
+    margin-left: 81px;
+}
+.perserve{
+    color: gray;
+font-size: 10px;
+margin-top: -23px;
+margin-left: 121px;
+}
+.container{
+background-color: #e1e1e1;
+height: 450px;
+width: 100%;
+margin-top: 40px;
+
+}
+.discovermore{
+color: #084108;
+font-size: 14px;
+font-weight: bold;
+margin-top: 14px;
+position: absolute;
+margin-left: 1113px;
+}
+.manimage{
+border-radius: 12px;
+margin-top: 81px;
+margin-left: 114px;
+width: 82%;
+height: 335px;
+}     
+   
+.theart{
+    margin-top: -212px;
+    margin-left: 177px;
+    position: absolute;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+.explore{
+    margin-top: -158px;
+    margin-left: 178px;
+    color: white;
+}
+.learnmorebutton{
+    border-radius: 22px;
+    background-color: white;
+    border: none;
+    height: 40px;
+    width: 179px;
+    margin-left: 176px;
+    margin-top: 55px;
+}
+.web{
+    margin-left: 57px;
+    color: white;
+    margin-top: 10px;
+}
+.terms{
+    color: white;
+    margin-top: -18px;
+    position: absolute;
+    margin-left: 204px;
+}
+.contact{
+    margin-left: 303px;
+    color: white;
+    margin-top: -19px;
+    position: absolute
+}
+.footerlogo{
+    margin-top: 20px;
+    position: absolute;
+    margin-left:  20px;
+}
+.footerlogo{
+    margin-top: -310px;
+position: absolute;
+margin-left: 113px;
+}
+
+.footer{
+    
+    background-color: #042b2c;
+    width: 100%;
+    height: 367px;
+
+}
+.aboutusall{
+    color:white;
+    margin-top: 40px;
+    margin-left: 270px;
+
+}
+.aboutusallsecond{
+    color: white;
+    margin-top: 40px;
+    margin-left: 470px;
+    font-size: 13px;
+
+
+}
+.aboutus{
+    margin-top: -11px;
+    position: absolute;
+    font-size: 13px;
+}
+
+.aboutusallthird{
+    color: white;
+    margin-top: 40px;
+    margin-left: 690px;
+  font-size: 13px;
+    
+
+
+}
+.aboutusallsocial{
+    color: white;
+    margin-top: 40px;
+    margin-left: 890px;
+  font-size: 13px;
+    
+}
+.insta{
+    height: 38px;
+    margin-left: 925px;
+    position: absolute;
+    margin-top: 53px;
+}
+.facebook{
+    height: 38px;
+    margin-left: 880px;
+    position: absolute;
+    margin-top: 53px;
+}
+.twitter{
+    height: 38px;
+    margin-left: 962px;
+    position: absolute;
+    margin-top: 53px;
+}
+.appstore{
+    height: 80px;
+    margin-left: 900px;height: 84px;
+    margin-left: 1027px;
+    margin-top: 20px;
+}
+
